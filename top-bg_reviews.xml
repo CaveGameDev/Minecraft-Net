@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews itemIdentifier="top-bg">
+  <review>
+    <reviewbody>Minecraft doesnt run</reviewbody>
+    <reviewtitle>The website isnt "restored".</reviewtitle>
+    <reviewer>Leolaus</reviewer>
+    <reviewer_itemname>@leolaus</reviewer_itemname>
+    <reviewdate>2019-08-29 08:17:47</reviewdate>
+    <createdate>2019-08-29 08:17:47</createdate>
+    <stars>0</stars>
+  </review>
+  <review>
+    <reviewtitle>if it works</reviewtitle>
+    <reviewbody>you only need to have an old browser such as internet explorer or others, since the current ones do not allow the java applet plug-in anymore.
+For me, just do that and it works!</reviewbody>
+    <stars>5</stars>
+    <reviewer>tocx280mn</reviewer>
+    <reviewdate>2023-01-10 22:59:50</reviewdate>
+    <createdate>2023-01-10 22:59:50</createdate>
+    <reviewer_itemname>@tocx280mn</reviewer_itemname>
+  </review>
+  <review>
+    <reviewtitle>Used Internet Explorer and uh...</reviewtitle>
+    <reviewbody>Tried it using Internet Explorer and I can't see anything but the icon. No applet. Giving it 4 stars though.</reviewbody>
+    <stars>4</stars>
+    <reviewer>CuisCopper</reviewer>
+    <reviewdate>2023-10-18 08:33:31</reviewdate>
+    <createdate>2023-10-18 08:33:31</createdate>
+    <reviewer_itemname>@cuiscopper</reviewer_itemname>
+  </review>
+  <info>
+    <num_reviews>3</num_reviews>
+    <avg_rating>4.50</avg_rating>
+  </info>
+</reviews>
